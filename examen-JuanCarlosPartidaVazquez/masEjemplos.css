@@ -1,0 +1,27 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.containerMenu{
+    background-color: rgb(207, 195, 15);
+    height: 30px;
+    padding-top: 10px;
+}
+.itemMenu{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(207, 195, 15);
+}
+
+.itemMenu:hover{
+    background-color: yellow;
+}
+
+.layout{
+    width: 1200px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
